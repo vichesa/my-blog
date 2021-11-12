@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Hello World!",
+      "body": "lorem",
+      "author": "Yola",
+      "id": 1
+    },
+    {
+      "title": "Welcome World!",
+      "body": "lorem",
+      "author": "Caca",
+      "id": 1
+    }
+  ]
+}
